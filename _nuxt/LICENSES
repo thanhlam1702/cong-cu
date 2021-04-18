@@ -1,14 +1,27 @@
+/*!
+  * vue-router v3.5.1
+  * (c) 2021 Evan You
+  * @license MIT
+  */
+
+/*!
+ * Vue.js v2.6.12
+ * (c) 2014-2020 Evan You
+ * Released under the MIT License.
+ */
+
+/*!
+ * vuex v3.6.2
+ * (c) 2021 Evan You
+ * @license MIT
+ */
+
+
 /*
 object-assign
 (c) Sindre Sorhus
 @license MIT
 */
-
-/*!
-  * vue-router v3.4.9
-  * (c) 2020 Evan You
-  * @license MIT
-  */
 
 /*!
   Copyright (c) 2018 Jed Watson.
@@ -40,12 +53,6 @@ object-assign
  */
 
 /*!
- * Vue.js v2.6.12
- * (c) 2014-2020 Evan You
- * Released under the MIT License.
- */
-
-/*!
  * getSize v2.0.3
  * measure size of elements
  * MIT license
@@ -61,10 +68,4 @@ object-assign
  * vue-no-ssr v1.1.1
  * (c) 2018-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
- */
-
-/*!
- * vuex v3.6.0
- * (c) 2020 Evan You
- * @license MIT
  */
